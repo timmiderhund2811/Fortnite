@@ -1,0 +1,23 @@
+.Hintergrund{
+background-color:white;
+}
+div.header{
+font-size:80px;
+font-style:oblique;
+padding-left:500px;
+height: 90px;
+}
+
+div.navigation{
+background-color:black;
+}
+
+a.Teil_2{
+color:white;
+text-decoration:none;
+}
+a.Random_link{
+margin-left:40px;
+color:white;
+text-decoration:none;
+}
