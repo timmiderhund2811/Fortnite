@@ -3,12 +3,11 @@ body.Hintergrund{
 }
 
 .header {
-background-image: url("HeaderHintergrund.png");
+background-image: url("Bilder/HeaderHintergrund.png");
 
-background-image: url("Unbenannt2.png");
-background-repeat: no-repeat;
 
-font-size:90px;
+
+font-size:75px;
 
 }
 
