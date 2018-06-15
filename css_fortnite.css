@@ -1,11 +1,15 @@
-.Hintergrund{
-background-color:white;
+
+body.Hintergrund{
 }
-div.header{
-font-size:80px;
-font-style:oblique;
-padding-left:500px;
-height: 90px;
+
+.header {
+background-image: url("HeaderHintergrund.png");
+
+background-image: url("Unbenannt2.png");
+background-repeat: no-repeat;
+
+font-size:90px;
+
 }
 
 div.navigation{
