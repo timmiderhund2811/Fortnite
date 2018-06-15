@@ -3,7 +3,7 @@ body.Hintergrund{
 }
 
 .header {
-background-image: url("Bilder/HeaderHintergrund.png");
+background-image: url("HeaderHintergrund.png");
 
 
 
@@ -23,4 +23,11 @@ a.Random_link{
 margin-left:40px;
 color:white;
 text-decoration:none;
+}
+
+a.Homepage{
+	
+	margin-left: 20px;
+	margin-top:60px;
+	
 }
